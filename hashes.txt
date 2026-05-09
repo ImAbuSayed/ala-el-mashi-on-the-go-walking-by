@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ala El Mashi – On the Go / Walking By
+
+This log tracks the cryptographic history and versioning for the song **Ala El Mashi – On the Go / Walking By** (ala-el-mashi-on-the-go-walking-by).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:41:15.208492 | `v1` | `a3403ee6b008c4be349fb89b5f57473daca419fb6bed87e28ab25c70a403211b` | `60b26b208767b23a38289a736b33b60b6db5fb119b17ee837bc1b09fb500a9d7` | `2026-05-09_ala-el-mashi-on-the-go-walking-by-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
